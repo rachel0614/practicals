@@ -32,4 +32,15 @@ managers_data$age[managers_data$age == 99] <- NA
 managers_data$age_cat[managers_data$age<=25] <- "Young"                   
 managers_data$age_cat[managers_data$age>=26 & managers_data$age<=44] <- "Middle Aged"                   
 managers_data$age_cat[managers_data$age>=45 | is.na(managers_data$age) ] <- "Elder"                   
+
+# recode age_cat so that it is ordinal and factored
+# with the order young, middle aged, elder
+age_cat <- factor(managers_data$age_cat, order = TRUE,
+                  levels = c("Young","Middle Aged","Elder"))
+age_cat
+# replace manager age_cat with factored variable
+managers_data$age_cat <- age_cat 
 managers_data
+
+# look at the structure of the data frame
+str(managers_data)
