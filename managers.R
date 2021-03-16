@@ -23,5 +23,13 @@ column_names <- c("date","country","gender","age",
 # add columns to the managers_data data frame
 colnames(managers_data) <- column_names
 
-# managers id
+# replace incorrect age value to NA
+managers_data$age[managers_data$age == 99] <- NA
 
+# 2 ways to create a new variable
+# - create a new vector and store the logical check in it
+# - create a new variable when doing the logical check
+managers_data$age_cat[managers_data$age<=25] <- "Young"                   
+managers_data$age_cat[managers_data$age>=26 & managers_data$age<=44] <- "Middle Aged"                   
+managers_data$age_cat[managers_data$age>=45 | is.na(managers_data$age) ] <- "Elder"                   
+managers_data
