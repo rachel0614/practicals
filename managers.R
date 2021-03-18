@@ -89,3 +89,43 @@ names(managers_data)[12] <- "Mean value"
 
 # show structure of the data frame
 str(managers_data)
+
+# convert Date column from char to date
+converted_date <- as.Date(managers_data$Date, "%m/%d/%y")
+managers_data$Date = converted_date
+managers_data
+
+# dealing with na data
+new_managers_data <- na.omit(managers_data)
+new_managers_data
+
+# use complete.cases to check the integrity of the columns
+complete_managers_data <- complete.cases(managers_data)
+complete_managers_data
+
+# list rows that do not have missing values
+complete_managers_data <- managers_data[complete.cases(managers_data),]
+complete_managers_data
+# show rows that have missing values
+complete_managers_data <- managers_data[!complete.cases(managers_data),]
+complete_managers_data
+# show summary of all missing in a variable
+sum(is.na(managers_data$Age))
+sum(is.na(managers_data$`Mean value`))
+
+# for showing missing value
+install.packages("mice")
+library(mice)       
+# visualization
+md.pattern(managers_data)
+
+# vim package can also show missing values
+install.packages("VIM")
+library(VIM)
+missing_values <- aggr(managers_data, 
+                       prop = FALSE,
+                       numbers = TRUE)
+# typeof(missing_values)
+# show summary of the content of missing values
+summary(missing_values)
+# summary(managers_data)
