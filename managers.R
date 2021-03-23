@@ -1,3 +1,7 @@
+# Create the managers data frame
+# Refer to notes "creating a dataset - problem" on Blackboard 
+# for more information
+
 # Enter data into vectors before constructing the data frame
 date_col <- c("10/15/18", "01/11/18", "10/21/18", "10/28/18", "05/01/18")
 country_col <- c("US", "US", "IRL", "IRL", "IRL")
@@ -19,7 +23,7 @@ managers_data <- data.frame(date_col,
                             q3_col, 
                             q4_col, 
                             q5_col)
-
+# View content of the new managers_data data frame
 managers_data
 
 column_names <- c("Date", 
@@ -45,6 +49,10 @@ managers_data
 # 1 - create a new vector and store the logical check in it
 # 2 - create the new var when doing the logical check
 
+# In this example we're creating the new variable when
+# performing the logical check
+# We are also recoding age record containing 'NA' to Elder
+
 managers_data$AgeCat[managers_data$Age >= 45] <- "Elder"
 managers_data$AgeCat[managers_data$Age >= 26 & managers_data$Age <= 44] <- "Middle Aged"
 managers_data$AgeCat[managers_data$Age <= 25] <- "Young"
@@ -56,8 +64,8 @@ managers_data
 age_cat <- factor(managers_data$AgeCat, order = TRUE, levels = c("Young", "Middle Aged", "Elder"))
 age_cat
 
-# replace mnager_data age_cat variable with
-# the factored variable
+# replace manager_data age_cat variable with
+# the factored variable we created above
 
 managers_data$AgeCat <-age_cat
 managers_data
@@ -65,67 +73,63 @@ managers_data
 # Look at the structure of the data frame
 str(managers_data)
 
-# create a summary column of each row
-summary_col <- managers_data$Q1 + managers_data$Q2 + 
-  managers_data$Q3 + managers_data$Q4 +
-  managers_data$Q5
-summary_col
+# -------------------------------------------------------------------------------
+# Dealing with missing data 
+# -------------------------------------------------------------------------------
 
-# append summary_col to managers dataframe
+# There are several methods we can use to extract out 
+# missing data before we decide whether to delete it
 
-managers_data <- data.frame(managers_data, summary_col)
-managers_data
+# We can remove all missing data with this code.
+# Removes any rows that contains NA - listwise deletion
+new_data <- na.omit(managers_data)
+new_data
 
-# calculate mean value for each row
+# We can use complete.cases to show rows where data is available
+# Here's an example of how to do this
+complete_data <- complete.cases(managers_data)
+complete_data
+# Show sum of missing rows
+sum(complete_data)
 
-mean_col <- rowMeans(managers_data[5:9])
-mean_col
-managers_data <- data.frame(managers_data, mean_col)
-managers_data
+# We can also list the rows of data
+# that do not have missing values
+# Note that the ',' and no number inside square brackets means "all columns"
+complete_data <- managers_data[complete.cases(managers_data),]
+complete_data
 
-# change titles of the new added columns to make it more readable
-names(managers_data)[11] <- "Summary"
-names(managers_data)[12] <- "Mean value"
+# List rows with missing values
+managers_data[!complete.cases(managers_data),]
 
-# show structure of the data frame
-str(managers_data)
-
-# convert Date column from char to date
-converted_date <- as.Date(managers_data$Date, "%m/%d/%y")
-managers_data$Date = converted_date
-managers_data
-
-# dealing with na data
-new_managers_data <- na.omit(managers_data)
-new_managers_data
-
-# use complete.cases to check the integrity of the columns
-complete_managers_data <- complete.cases(managers_data)
-complete_managers_data
-
-# list rows that do not have missing values
-complete_managers_data <- managers_data[complete.cases(managers_data),]
-complete_managers_data
-# show rows that have missing values
-complete_managers_data <- managers_data[!complete.cases(managers_data),]
-complete_managers_data
-# show summary of all missing in a variable
+# We can examine individual variables and count
+# the number of missing values
+# Eg find sum of all missing values in the age attribute
 sum(is.na(managers_data$Age))
-sum(is.na(managers_data$`Mean value`))
 
-# for showing missing value
+# Find the mean of missing values from the Age attribute
+# This shows that 20% of data is missing in the Age attribute
+mean(is.na(managers_data$Age))
+
+# Find the mean of rows with no incomplete data
+# Note that we dont need to add the ',' as we're only
+# looking for an overall mean of rows with missing values
+# This example indicates that 40% of data is missing in
+# the managers_data data frame
+mean(!complete.cases(managers_data))
+
+#----------------------------------------------------------------------------
+# Graphically display missing data
+#----------------------------------------------------------------------------
+
+# Use the mice package to show patterns in missing data
 install.packages("mice")
-library(mice)       
-# visualization
+library(mice)
 md.pattern(managers_data)
 
-# vim package can also show missing values
+# Use VIM package to show missing values
 install.packages("VIM")
 library(VIM)
-missing_values <- aggr(managers_data, 
-                       prop = FALSE,
-                       numbers = TRUE)
-# typeof(missing_values)
-# show summary of the content of missing values
+missing_values <- aggr(managers_data, prop = FALSE, numbers = TRUE)
+# Show summary of the contents of missing_values
 summary(missing_values)
-# summary(managers_data)
+# See this link for more info https://www.rdocumentation.org/packages/VIM/versions/4.8.0/topics/aggr 
