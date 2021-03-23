@@ -52,3 +52,31 @@ gender_data <- subset(managers_data, Gender == "M" & Age > 2,
                    select = Gender:Q4)
 gender_data
 detach(managers_data)
+
+# random sampling
+# sample 3 records from data frame
+my_sample <- managers_data[sample(1:nrow(managers_data), 
+                                  3, replace = FALSE), ]
+my_sample
+# row count
+# nrow(managers_data)
+
+# can we extract 10 samples?
+my_sample <- managers_data[sample(1:nrow(managers_data), 
+                                  10, replace = TRUE), ]
+my_sample
+
+# sorting data by age
+attach(managers_data)
+new_data <- managers_data[order(Age),]
+new_data
+
+# sort by gender and then age within each gender
+sorted_data <- managers_data[order(Gender, Age),]
+sorted_data
+
+detach(managers_data)
+
+# save sample data into csv
+write.csv(my_sample, file = "random_sample.csv")
+
