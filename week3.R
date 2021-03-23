@@ -1,6 +1,5 @@
 # file downloaded from BB and inserted into data frame
-managers_data <- read.csv("managers.csv", na = "")
-
+managers_data <- read.csv("managers.csv", na = "", stringsAsFactors=FALSE)
 # view the structure of the data frame
 str(managers_data)
 
