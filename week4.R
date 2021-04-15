@@ -1,3 +1,4 @@
+# merging dataset
 # load data
 managers_data <- read.csv("managers.csv", 
                           stringsAsFactors=FALSE)
