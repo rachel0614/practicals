@@ -1,0 +1,254 @@
+"","Name","Address","Daibetes.type","Age","Status","Month","Year","Date"
+"1","Sienna Leon","4 Whyte Field, Crossgar, Downpatrick BT30 9HB, UK","Type 2",44,"Improved",11,2021,2021-11-01
+"2","Alfred Best","5-69 Mcbriar Meadow, Newtownards BT22 2EW, UK","Type 1",76,"Improved",3,2021,2021-03-01
+"3","Zion Stark","29 St Annes Gardens, Derry BT47 3TU, UK","Type 2",66,"Excellent",4,2021,2021-04-01
+"4","Kaya Melton","10 Bridge St, Ballymena BT43 5EW, UK","Type 1",53,"Excellent",2,2021,2021-02-01
+"5","Alma Navarro","16-4 Union St, Cookstown BT80 8NP, UK","Type 1",37,"Excellent",8,2021,2021-08-01
+"6","Leonidas Figueroa","14 Comber St, Saintfield, Ballynahinch BT24 7AZ, UK","Type 2",60,"Excellent",9,2021,2021-09-01
+"7","Gael Ward","35 Arkle Park, Downpatrick BT30 6BJ, UK","Type 1",53,"Poor",12,2021,2021-12-01
+"8","Clarissa Thornton","376 Church Hill Rd, Enniskillen BT93 6BR, UK","Type 2",78,"Poor",1,2021,2021-01-01
+"9","Katelynn Clay","15 Dernasigh Rd, Armagh BT60 4QD, UK","Type 1",30,"Improved",1,2021,2021-01-01
+"10","Thalia Tate","8 Kingsway Dr, Belfast BT5 7DP, UK","Type 1",78,"Poor",3,2021,2021-03-01
+"11","Seth Farrell","97-109 Darkley Rd, Armagh BT60 3BU, UK","Type 2",67,"Excellent",6,2021,2021-06-01
+"12","Karlie Archer","91 Glenbryn Park, Belfast BT14 7JG, UK","Type 1",51,"Poor",3,2021,2021-03-01
+"13","Quinn Fisher","20 Acres Rd, Magheralin, Craigavon BT67 0RL, UK","Type 1",30,"Improved",8,2021,2021-08-01
+"14","Riley Lam","2-28 Forth Ave, Warrenpoint, Newry BT34 3SB, UK","Type 2",71,"Improved",9,2021,2021-09-01
+"15","Skylar Waller","7 Sandhurst Park, Bangor BT20 5NU, UK","Type 2",76,"Improved",9,2021,2021-09-01
+"16","Samantha Lopez","22 Shanco Rd, Clogher BT76, UK","Type 1",44,"Poor",10,2021,2021-10-01
+"17","Bailey Sampson","71 Ballyconnell Rd, Knockateggal, Derrylin, Enniskillen BT92 9AH, UK","Type 2",77,"Excellent",5,2021,2021-05-01
+"18","Keyon Castaneda","16A Lurganboy Rd, Castlederg BT81 7HS, UK","Type 2",32,"Excellent",10,2021,2021-10-01
+"19","Eileen Thomas","14 Slievetoye Park, Belfast BT14 8JL, UK","Type 1",31,"Improved",11,2021,2021-11-01
+"20","Nicolas Durham","4 Blackwater Rd, Newtownabbey BT36 4TZ, UK","Type 2",70,"Poor",5,2021,2021-05-01
+"21","Kade Duke","41 Blairmont Rd, Armagh BT60 2LZ, UK","Type 1",73,"Excellent",3,2021,2021-03-01
+"22","Lauryn Duarte","1-5 Clachan Bride, Omagh BT79 8QH, UK","Type 2",52,"Poor",4,2021,2021-04-01
+"23","Yandel Huang","4 Meadowbank Ct, Newtownabbey BT37 0FF, UK","Type 1",70,"Excellent",4,2021,2021-04-01
+"24","Mohamed Cox","42 High St, Belfast BT1 2BE, UK","Type 2",56,"Poor",2,2021,2021-02-01
+"25","Kenyon Martin","6 Struell Cl, Downpatrick BT30 6GR, UK","Type 2",64,"Improved",8,2021,2021-08-01
+"26","Alison Smith","11 Kearney Rd, Portaferry, Newtownards BT22 1QG, UK","Type 2",65,"Excellent",9,2021,2021-09-01
+"27","Angel Calhoun","4 Glenaan Ct, Bangor BT20 4SL, UK","Type 1",72,"Improved",12,2021,2021-12-01
+"28","Braxton Richardson","9 Mountain Rd, Ballynahinch BT24 8QT, UK","Type 1",30,"Improved",1,2021,2021-01-01
+"29","Ana Hendrix","11 Richmond Ave, Ballymoney BT53 7BF, UK","Type 2",48,"Excellent",2,2021,2021-02-01
+"30","Danika Stephenson","3 Edgar Boyd Ct, Carryduff, Belfast BT8 8PR, UK","Type 2",58,"Poor",2,2021,2021-02-01
+"31","Joslyn Coffey","1 Hazelview, Bangor BT19 7YS, UK","Type 2",84,"Improved",10,2021,2021-10-01
+"32","Cadence Harding","95 A2, Larne BT40, UK","Type 1",28,"Excellent",3,2021,2021-03-01
+"33","Nolan Forbes","87 Main St, Greyabbey, Newtownards BT22 2NF, UK","Type 1",51,"Excellent",1,2021,2021-01-01
+"34","Alisson Le","65 Carlingford St, Belfast BT6 8NE, UK","Type 2",35,"Poor",9,2021,2021-09-01
+"35","Laney Santiago","Unnamed Road, Enniskillen BT92 6BP, UK","Type 1",45,"Poor",9,2021,2021-09-01
+"36","Aniyah Stevenson","1 Fairgreen Ave, Keady, Armagh BT60 3UQ, UK","Type 2",62,"Poor",6,2021,2021-06-01
+"37","Ezequiel Hendricks","25 Mullaghsandall Rd, Larne BT40 2LU, UK","Type 1",63,"Improved",8,2021,2021-08-01
+"38","Alivia Stone","4 Milltown Row, Belfast BT12 6EU, UK","Type 1",61,"Excellent",2,2021,2021-02-01
+"39","Mariah Charles","4 Molesworth Ct, Cookstown BT80 8XF, UK","Type 1",45,"Excellent",12,2021,2021-12-01
+"40","Zachariah Horn","17 Bay Park, Larne BT40 1BZ, UK","Type 2",39,"Excellent",12,2021,2021-12-01
+"41","Kaydence Silva","Markethill Rd, Armagh BT60 1QP, UK","Type 1",53,"Excellent",10,2021,2021-10-01
+"42","Marquis Montoya","278 Ormeau Rd, Belfast BT7 2GB, UK","Type 1",69,"Excellent",4,2021,2021-04-01
+"43","Aliana Ortiz","22 Coolshinney Heights, Magherafelt BT45 5JH, UK","Type 1",43,"Poor",4,2021,2021-04-01
+"44","Harper Bautista","135 Queensway, Lisburn BT27 4QS, UK","Type 1",39,"Excellent",2,2021,2021-02-01
+"45","Nasir Leach","19 Smeaton Park, Moira, Craigavon BT67 0NF, UK","Type 1",32,"Improved",2,2021,2021-02-01
+"46","Landen Holmes","42 Corcreechy Rd, Newry BT34 1LR, UK","Type 1",65,"Poor",2,2021,2021-02-01
+"47","Sariah Pennington","Summerhill, Enniskillen BT94 2HH, UK","Type 1",78,"Improved",10,2021,2021-10-01
+"48","Amiyah Ayers","160-166 Lower Dromore Rd, Warrenpoint, Newry BT34, UK","Type 1",60,"Improved",9,2021,2021-09-01
+"49","Shawn Mosley","478 Castlereagh Rd, Belfast BT5 6BQ, UK","Type 2",28,"Poor",6,2021,2021-06-01
+"50","Nikolas Oconnor","15 Waterside, Lisburn BT28 1YH, UK","Type 1",33,"Poor",8,2021,2021-08-01
+"51","Juliette Gonzales","9 Knocklands Ct, Ballymoney BT53 6LN, UK","Type 2",84,"Improved",2,2021,2021-02-01
+"52","Peyton Booker","112 Lough Fea Rd, Cookstown BT80 9ST, UK","Type 2",42,"Poor",3,2021,2021-03-01
+"53","Jaydon Booth","Unnamed Road, Enniskillen BT74 8BF, UK","Type 2",36,"Improved",7,2021,2021-07-01
+"54","Roger Miller","3 Beagh Cottages, Maghera BT46 5EP, UK","Type 1",48,"Improved",1,2021,2021-01-01
+"55","Clara Byrd","6 Ferndale Rd, Derry BT48 8RB, UK","Type 2",61,"Excellent",9,2021,2021-09-01
+"56","Jaquan Gibbs","3 Quay Ln, Downpatrick BT30, UK","Type 2",46,"Improved",5,2021,2021-05-01
+"57","Jeremy Harrison","9 Trench Rd, Newtownabbey BT36 4TY, UK","Type 2",63,"Excellent",2,2021,2021-02-01
+"58","Carlos Crosby","25 Egeria St, Belfast BT12 5PN, UK","Type 1",51,"Improved",10,2021,2021-10-01
+"59","Weston Holden","6 The Paddock, Lisburn BT28 2YD, UK","Type 1",28,"Excellent",2,2021,2021-02-01
+"60","Mina Ramsey","11 Grange Park, Dunmurry, Belfast BT17 0AN, UK","Type 1",85,"Improved",11,2021,2021-11-01
+"61","Ethen Stokes","1-3 The Woods, Larne BT40 1TU, UK","Type 2",27,"Improved",5,2021,2021-05-01
+"62","Philip Mcguire","8 Green Rd, Ardglass, Downpatrick BT30 7UA, UK","Type 1",75,"Excellent",7,2021,2021-07-01
+"63","Hugo Barajas","40 Foxhill Road, Enniskillen BT94 2PE, UK","Type 2",71,"Improved",2,2021,2021-02-01
+"64","Darryl Moon","72 Upper Movilla St, Newtownards BT23 8JP, UK","Type 2",53,"Improved",6,2021,2021-06-01
+"65","Noel Lyons","1 Links Cres, Portaferry, Newtownards BT22 1PT, UK","Type 1",67,"Improved",9,2021,2021-09-01
+"66","Jeramiah Conrad","95 Eglantine Ave, Belfast BT9 6EX, UK","Type 2",63,"Poor",12,2021,2021-12-01
+"67","Evie Hubbard","8 Farlough Rd, Craigavon BT62, UK","Type 2",68,"Excellent",11,2021,2021-11-01
+"68","Kelsey Mcfarland","86 Sherrigrim Rd, Dungannon BT71 4BX, UK","Type 1",49,"Improved",5,2021,2021-05-01
+"69","Nylah Lowery","12-16 St John's Cres, Portadown, Craigavon BT62 1EG, UK","Type 1",45,"Excellent",10,2021,2021-10-01
+"70","Savannah Gross","13 Halstein Dr, Belfast BT5 6JQ, UK","Type 1",51,"Excellent",10,2021,2021-10-01
+"71","Amare Mcmahon","7 Pinehill Rd, Belfast BT8 8LA, UK","Type 1",75,"Excellent",1,2021,2021-01-01
+"72","Laila Garrison","6 Glenvarna Green, Glengormley, Newtownabbey BT36 5JF, UK","Type 1",33,"Poor",1,2021,2021-01-01
+"73","Estrella Hunt","56 B80, Enniskillen BT94, UK","Type 1",37,"Poor",4,2021,2021-04-01
+"74","Bruno Ruiz","67-73 Windsor Ave, Coleraine BT52 2DS, UK","Type 1",56,"Excellent",2,2021,2021-02-01
+"75","Dax Ashley","Church Cres, Newtownabbey BT37 9BL, UK","Type 1",74,"Improved",7,2021,2021-07-01
+"76","Sanaa Buck","31-37 Killyliss Rd, Dungannon BT70 1QQ, UK","Type 1",70,"Improved",8,2021,2021-08-01
+"77","Sam Monroe","8 Madison Ave, Belfast BT15 5BX, UK","Type 2",34,"Improved",7,2021,2021-07-01
+"78","Chana Lin","35 Church Square, Banbridge BT32 4AP, UK","Type 2",58,"Improved",5,2021,2021-05-01
+"79","Ryker Klein","Madam's Bank Rd, Derry BT47, UK","Type 1",36,"Excellent",5,2021,2021-05-01
+"80","Mya Stanton","Unnamed Road, Enniskillen BT94 3LN, UK","Type 1",79,"Excellent",12,2021,2021-12-01
+"81","Irvin Mcbride","33 Orangefield Parade, Belfast BT5 6DE, UK","Type 2",58,"Poor",3,2021,2021-03-01
+"82","Nataly Franco","8 Granville Manor, Kells, Ballymena BT42 3JE, UK","Type 1",28,"Poor",12,2021,2021-12-01
+"83","Jace Montes","1-5 Milltown Rd, Omagh BT78, UK","Type 2",51,"Poor",4,2021,2021-04-01
+"84","Kianna Morse","20 Ormeau Embankment, Belfast BT6, UK","Type 2",69,"Excellent",12,2021,2021-12-01
+"85","Enzo Gillespie","2 Priory Manor, Holywood BT18 0LD, UK","Type 1",29,"Excellent",11,2021,2021-11-01
+"86","Cooper Bradford","2 Station Rd, Antrim BT41 1BH, UK","Type 2",26,"Excellent",8,2021,2021-08-01
+"87","Cassie Steele","19 Karrington Heights, Dundonald, Belfast BT16 1XZ, UK","Type 2",62,"Excellent",9,2021,2021-09-01
+"88","Ace Patrick","15 River Hill Dr, Newtownards BT23 7GU, UK","Type 2",29,"Excellent",11,2021,2021-11-01
+"89","Charity Clarke","174 Main Rd, Cloughey, Newtownards BT22 1JA, UK","Type 1",27,"Poor",12,2021,2021-12-01
+"90","Ronald Watts","150 Strand Rd, Derry BT48 7PT, UK","Type 1",36,"Improved",2,2021,2021-02-01
+"91","Olive Lester","20 Shaw St, Belfast BT4 1PT, UK","Type 2",35,"Poor",8,2021,2021-08-01
+"92","Maeve Ramirez","14A Newry Rd, Forkhill, Newry BT35 9RN, UK","Type 1",76,"Poor",9,2021,2021-09-01
+"93","Chris Castillo","4 Laurel Ln, Holywood BT18 0JT, UK","Type 2",52,"Excellent",12,2021,2021-12-01
+"94","Alden Baxter","93-95 Bloomfield Rd, Bangor BT20 4XB, UK","Type 1",30,"Excellent",1,2021,2021-01-01
+"95","Amaya Phillips","Beechill Grove, Belfast BT8 7QS, UK","Type 2",34,"Improved",2,2021,2021-02-01
+"96","Ryann Horne","23 Ramone Park, Portadown, Craigavon BT63 5JF, UK","Type 1",55,"Improved",2,2021,2021-02-01
+"97","Taliyah Kramer","24 Kilcronagh Rd, Cookstown BT80 9HG, UK","Type 1",28,"Poor",10,2021,2021-10-01
+"98","Garrett Mccann","29 A29, Magherafelt BT45 5LL, UK","Type 1",37,"Excellent",3,2021,2021-03-01
+"99","Brett Bond","31 Carnacally Rd, Newry BT34, UK","Type 2",56,"Poor",1,2021,2021-01-01
+"100","Jesse Pugh","81 Almond Dr, Dunmurry, Belfast BT17 0DG, UK","Type 2",74,"Poor",9,2021,2021-09-01
+"101","Arianna Cain","52 Claragh Rd, Clough, Downpatrick BT30 8RG, UK","Type 1",60,"Excellent",9,2021,2021-09-01
+"102","Gina Stafford","39 Ballyknockan Rd, Newtownards BT23 6NR, UK","Type 2",83,"Excellent",6,2021,2021-06-01
+"103","Tamia Elliott","14 Pilot St, Belfast BT1 3AF, UK","Type 1",36,"Poor",8,2021,2021-08-01
+"104","Ryan Buchanan","A47, Enniskillen BT93 1QP, UK","Type 2",55,"Improved",2,2021,2021-02-01
+"105","Evangeline Tyler","5 Clooney Rd, Derry BT47 6TB, UK","Type 2",71,"Poor",12,2021,2021-12-01
+"106","Amina Hill","Diamond House, 15 Royal Ave, Belfast BT1 1FB, UK","Type 1",67,"Improved",12,2021,2021-12-01
+"107","Jocelyn Duran","17 Mountainhill Rd, Belfast BT14 8PG, UK","Type 1",39,"Improved",2,2021,2021-02-01
+"108","Keyla Carey","27 Annadorn Rd, Downpatrick BT30 8JU, UK","Type 1",30,"Excellent",10,2021,2021-10-01
+"109","Emanuel Kelly","9 Tully, Irvinestown, Enniskillen BT94 1RE, UK","Type 1",62,"Excellent",9,2021,2021-09-01
+"110","Alani Leonard","17 Gillespie Ct, Comber, Newtownards BT23 5GL, UK","Type 2",48,"Poor",6,2021,2021-06-01
+"111","Killian Joseph","8 Rowley Cl, Newcastle BT33 0UE, UK","Type 2",63,"Excellent",8,2021,2021-08-01
+"112","Joe Coleman","48 Dalriada Dr, Newtownabbey BT37 0QA, UK","Type 1",66,"Improved",2,2021,2021-02-01
+"113","Tyson Harris","32 Sheridan Rd, Enniskillen BT94 2JG, UK","Type 1",59,"Improved",3,2021,2021-03-01
+"114","Tessa Dominguez","9 Ballougry Rd, Derry BT48, UK","Type 2",62,"Poor",7,2021,2021-07-01
+"115","Adrien Cole","23 Skyline Dr, Lisburn BT27 4HH, UK","Type 1",76,"Poor",1,2021,2021-01-01
+"116","Yadiel Boyd","4 University Gardens, Coleraine BT52 1JT, UK","Type 2",31,"Improved",5,2021,2021-05-01
+"117","Ansley Delacruz","7 Dunclare Heights, Dungannon BT71 7QW, UK","Type 1",30,"Poor",7,2021,2021-07-01
+"118","Melody Terrell","32 Mulberry Park, Dunmurry, Belfast BT17 0DJ, UK","Type 1",75,"Excellent",2,2021,2021-02-01
+"119","Azul Atkinson","2 Oakley Ave, Holywood BT18 9FF, UK","Type 1",76,"Poor",6,2021,2021-06-01
+"120","Melany Frederick","3-13 Drumbeg Dr, Lisburn BT28 1PQ, UK","Type 2",57,"Poor",9,2021,2021-09-01
+"121","Erin Lynn","20 Market St, Moneymore, Magherafelt BT45 7PE, UK","Type 1",53,"Poor",12,2021,2021-12-01
+"122","Bethany Collier","6 McCartney Park, Derry BT48 0AE, UK","Type 1",45,"Excellent",11,2021,2021-11-01
+"123","Brynn Evans","20-24 Steedstown Rd, Lisburn BT28, UK","Type 1",49,"Improved",5,2021,2021-05-01
+"124","Aleah Koch","133 Windmill Rd, Hillsborough BT26 6NP, UK","Type 1",58,"Excellent",10,2021,2021-10-01
+"125","Francisco Gallegos","54 Killyvally Rd, Garvagh, Coleraine BT51 5LX, UK","Type 1",56,"Excellent",10,2021,2021-10-01
+"126","Colby Sloan","10 Ivybank Rd, Moneymore, Magherafelt BT45 7YS, UK","Type 1",56,"Excellent",8,2021,2021-08-01
+"127","Haleigh Morales","5 Kilclean Rd, Castlederg BT81, UK","Type 2",31,"Excellent",7,2021,2021-07-01
+"128","Amelie Jacobs","75-77 Kilskeery Rd, Omagh BT78 3RH, UK","Type 1",36,"Poor",5,2021,2021-05-01
+"129","Sawyer Yates","2 Carnhill Grove, Glengormley, Newtownabbey BT36 6LS, UK","Type 1",68,"Excellent",5,2021,2021-05-01
+"130","Kamora Lawson","2A Ballymaginaghy Rd, Castlewellan BT31 9BH, UK","Type 1",44,"Excellent",12,2021,2021-12-01
+"131","Mitchell Welch","19 Ballyblack Rd E, Newtownards BT22 2AB, UK","Type 1",77,"Poor",3,2021,2021-03-01
+"132","Yuliana Maldonado","47 Kevlin Ave, Omagh BT78 1ER, UK","Type 2",80,"Improved",4,2021,2021-04-01
+"133","Eugene Peters","8 Cortreasla Rd, Silverbridge, Newry BT35 9LZ, UK","Type 2",38,"Poor",2,2021,2021-02-01
+"134","Haylie Salinas","30 Osborne St, Derry BT48 0HT, UK","Type 1",50,"Improved",8,2021,2021-08-01
+"135","Phoenix Cardenas","2 Sandyholme Way, Glengormley, Newtownabbey BT36 5BH, UK","Type 2",68,"Poor",9,2021,2021-09-01
+"136","Alicia Christensen","14 Drumclay Rd, Enniskillen BT74 6NG, UK","Type 1",52,"Excellent",12,2021,2021-12-01
+"137","Amaris Kim","26 Derrybeg Lane, Newry BT35 6JW, UK","Type 2",34,"Excellent",1,2021,2021-01-01
+"138","Grant Webster","279 Gola Rd, Enniskillen BT92 0PD, UK","Type 1",66,"Poor",2,2021,2021-02-01
+"139","Phoebe Peck","121 Hightown Rd, Newtownabbey BT36 7AU, UK","Type 2",56,"Improved",2,2021,2021-02-01
+"140","Messiah Odom","14 Abbots Dr, Newtownabbey BT37 9RD, UK","Type 2",45,"Excellent",10,2021,2021-10-01
+"141","Miguel Hooper","26 Colinward St, Belfast BT12 7EP, UK","Type 2",28,"Poor",3,2021,2021-03-01
+"142","Terrence Lewis","98 Ballygassoon Rd, Armagh BT61 8LZ, UK","Type 2",70,"Excellent",1,2021,2021-01-01
+"143","Blaine Drake","5 Old Mill Cl, Rathfriland, Newry BT34 5FB, UK","Type 1",54,"Poor",9,2021,2021-09-01
+"144","Jadyn Bailey","299 Moorlough Rd, Newtownbutler, Enniskillen BT92 8JW, UK","Type 1",65,"Poor",9,2021,2021-09-01
+"145","Ayana Boyle","2-22 Drumragh End, Castlereagh, Belfast BT6 0EB, UK","Type 2",83,"Excellent",6,2021,2021-06-01
+"146","Micaela Benson","30 Lisleen Rd, Castlederg BT81 7QN, UK","Type 1",83,"Excellent",8,2021,2021-08-01
+"147","Kierra Ware","12 Kernan Rd, Gilford, Craigavon BT63 6BU, UK","Type 1",29,"Excellent",2,2021,2021-02-01
+"148","Thomas Pratt","200-212 Old Belfast Rd, Bangor BT19, UK","Type 2",40,"Improved",3,2021,2021-03-01
+"149","Lilah Barron","34 Garden St, Magherafelt BT45 5DD, UK","Type 1",38,"Excellent",6,2021,2021-06-01
+"150","Miranda Shields","115 Mount Eden, Limavady BT49 0TN, UK","Type 2",29,"Poor",3,2021,2021-03-01
+"151","Jakob Spencer","25 Bridle Loanan, Warrenpoint, Newry BT34 3PD, UK","Type 2",36,"Poor",8,2021,2021-08-01
+"152","Gage Park","1 Blackslee Ct, Derrygonnelly, Enniskillen BT93 6HT, UK","Type 2",67,"Improved",9,2021,2021-09-01
+"153","Elliot Hoover","23 Orchard Park, Portadown, Craigavon BT62 3JU, UK","Type 1",58,"Improved",9,2021,2021-09-01
+"154","Shane Chase","5 Brown Dr, Maghera BT46 5HQ, UK","Type 2",79,"Excellent",10,2021,2021-10-01
+"155","Hayley Poole","27 Montgomery Dr, Lisburn BT27 5HR, UK","Type 2",62,"Excellent",5,2021,2021-05-01
+"156","Jaden Rowe","1 Trasna Park, Enniskillen BT74 7NG, UK","Type 2",35,"Poor",10,2021,2021-10-01
+"157","Shelby Boone","17 Bryandrum Rd, Armagh BT60, UK","Type 2",58,"Excellent",11,2021,2021-11-01
+"158","Uriah Cobb","6 Cotter's Bridge, Bessbrook, Newry BT35 7GZ, UK","Type 1",55,"Excellent",5,2021,2021-05-01
+"159","Rylee Short","9 Mullaghacall Rd, Portstewart BT55 7EG, UK","Type 2",43,"Poor",3,2021,2021-03-01
+"160","Alissa Pineda","39 Silverbridge Rd, Silverbridge, Newry BT35 9LG, UK","Type 1",57,"Improved",4,2021,2021-04-01
+"161","Geovanni Mcdonald","24 Mount Charles, Belfast BT7 1NZ, UK","Type 1",52,"Poor",4,2021,2021-04-01
+"162","Zara Contreras","67-93 Kinrush Rd, Cookstown BT80, UK","Type 1",65,"Improved",2,2021,2021-02-01
+"163","Aniya Green","5 Albertville Dr, Belfast BT14 7BX, UK","Type 2",67,"Improved",8,2021,2021-08-01
+"164","Adyson Hatfield","38 Boolawater Road, Enniskillen BT93 8AW, UK","Type 1",49,"Poor",9,2021,2021-09-01
+"165","Cloe Rich","30 Lord Warden's Manor, Bangor BT19 1YW, UK","Type 2",49,"Poor",12,2021,2021-12-01
+"166","Jazmin Alvarez","94 Letter Road, Enniskillen BT93, UK","Type 2",77,"Excellent",1,2021,2021-01-01
+"167","Leonel Riley","50 Comber Rd, Killinchy, Newtownards BT23 6PB, UK","Type 2",85,"Excellent",2,2021,2021-02-01
+"168","Charlotte Irwin","97 Laharna Ave, Larne BT40 1NY, UK","Type 2",26,"Improved",2,2021,2021-02-01
+"169","Elias Kirk","6 Cloverhill Glen, Bangor BT19 6XX, UK","Type 2",79,"Improved",10,2021,2021-10-01
+"170","Charles Greene","11 Castlehill Grove, Ballymoney BT53 6SZ, UK","Type 1",83,"Improved",3,2021,2021-03-01
+"171","Jairo Griffith","6 Steeple Gardens, Antrim BT41 1BW, UK","Type 2",42,"Excellent",1,2021,2021-01-01
+"172","Audrina Harmon","12 Millbrook Rd, Omagh BT78, UK","Type 1",45,"Improved",9,2021,2021-09-01
+"173","Matteo Trujillo","12 Castle Hill Park, Ballygawley, Dungannon BT70 2LN, UK","Type 1",35,"Excellent",9,2021,2021-09-01
+"174","Aracely Reed","14 Drumard Park, Tamlaght O'Crilly, Upperlands, Maghera BT46 5XW, UK","Type 2",33,"Excellent",6,2021,2021-06-01
+"175","Alexis Daniels","Evangelical Bookshop, 8 Dublin Rd, Enniskillen BT74 6HH, UK","Type 1",38,"Excellent",8,2021,2021-08-01
+"176","Titus Olsen","90 Drumnaquoile Rd, Ballynahinch BT24 8QP, UK","Type 2",66,"Poor",2,2021,2021-02-01
+"177","Casey Mendez","Ned Road, Enniskillen BT92 9NG, UK","Type 1",61,"Improved",12,2021,2021-12-01
+"178","Ariana Nichols","11 Brandon Grove, Bangor BT19 7SN, UK","Type 2",30,"Excellent",12,2021,2021-12-01
+"179","Yaritza Diaz","53 Westbourne Cres, Coleraine BT51 3HQ, UK","Type 1",78,"Improved",10,2021,2021-10-01
+"180","Braeden Leblanc","1 Wellington Park Cl, Moira, Craigavon BT67 0UN, UK","Type 2",47,"Excellent",4,2021,2021-04-01
+"181","Asher Jennings","12-16 Milltown Rd, Downpatrick BT30 7EE, UK","Type 1",44,"Excellent",4,2021,2021-04-01
+"182","Leila Atkins","1 Meadow Hill, Newtownstewart, Omagh BT78 4HF, UK","Type 2",29,"Excellent",3,2021,2021-03-01
+"183","Maximillian Frey","7 Gortgranagh Dr, Coleraine BT51 3NQ, UK","Type 2",37,"Improved",6,2021,2021-06-01
+"184","Saniyah Medina","4 Church View, Dromore BT25 1AB, UK","Type 2",63,"Excellent",3,2021,2021-03-01
+"185","Tristan Marshall","30 Islandhill Rd, Millisle, Newtownards BT22 2BS, UK","Type 1",26,"Poor",8,2021,2021-08-01
+"186","Ashanti Haley","22-40 Church St, Armagh BT60 3UP, UK","Type 1",82,"Poor",9,2021,2021-09-01
+"187","Adalynn Cook","188 Hillhall Rd, Lisburn BT27 5JA, UK","Type 2",58,"Poor",9,2021,2021-09-01
+"188","Rene Nixon","91 Kimberley St, Belfast BT7 3DZ, UK","Type 2",66,"Poor",10,2021,2021-10-01
+"189","Azaria Simpson","18 Ardglen Park, Derry BT48 0AX, UK","Type 2",49,"Improved",5,2021,2021-05-01
+"190","Elvis Caldwell","10 Hesketh Gardens, Belfast BT14 7JT, UK","Type 2",56,"Excellent",10,2021,2021-10-01
+"191","Miles Travis","34 Corcrain Dr, Portadown, Craigavon BT62 4AW, UK","Type 1",40,"Improved",11,2021,2021-11-01
+"192","Kale Barnes","21 Old Channel Rd, Belfast BT3 9DE, UK","Type 2",52,"Improved",5,2021,2021-05-01
+"193","Damion Jimenez","5 College Ct, Belfast BT1 6BS, UK","Type 1",37,"Poor",3,2021,2021-03-01
+"194","Alonzo Bartlett","46-58 Drumenny Rd, Cookstown BT80 0BY, UK","Type 1",65,"Improved",4,2021,2021-04-01
+"195","Marco Chung","7 Magheraboy Walk, Portrush BT56 8FZ, UK","Type 2",50,"Improved",4,2021,2021-04-01
+"196","Cannon Hurst","86 Lisnacroppan Rd, Ballynaskeagh, Banbridge BT32 5DA, UK","Type 1",51,"Improved",2,2021,2021-02-01
+"197","Gisselle Deleon","7 Craigmore Way, Belfast BT7 1PE, UK","Type 2",44,"Poor",8,2021,2021-08-01
+"198","Jaidyn Webb","35 Abbeycroft Dr, Newtownabbey BT37 0YL, UK","Type 2",70,"Excellent",9,2021,2021-09-01
+"199","Felix Ballard","74 Balloo Walk, Bangor BT19 7HL, UK","Type 1",54,"Improved",12,2021,2021-12-01
+"200","Milton Mccarty","52a Carnhill, Derry BT48, UK","Type 2",45,"Excellent",1,2021,2021-01-01
+"201","Joselyn Fernandez","10 Balmoral Ave, Belfast BT9 7GR, UK","Type 2",67,"Poor",2,2021,2021-02-01
+"202","Hailie Mcdowell","30 Bann Rd, Kilrea, Coleraine BT51 5RX, UK","Type 2",66,"Excellent",2,2021,2021-02-01
+"203","Kennedy Lynch","5 Ritchies Villas, Magherafelt BT45 6ER, UK","Type 2",70,"Poor",10,2021,2021-10-01
+"204","Mylie Vaughan","Larne Rd, Milbrook, Larne BT40 2SL, UK","Type 1",48,"Poor",3,2021,2021-03-01
+"205","Braylon Sosa","2 Quarry Rd, Dungannon BT70 1QJ, UK","Type 1",47,"Excellent",1,2021,2021-01-01
+"206","Aisha Burke","10-12 Dublin Rd, Antrim BT41, UK","Type 2",41,"Poor",9,2021,2021-09-01
+"207","Lamar Stephens","6 Beechill Grove, Lisburn BT28 3UB, UK","Type 1",73,"Excellent",9,2021,2021-09-01
+"208","Kyle Downs","75-97 Straid Rd, Ballymena BT42 2JQ, UK","Type 1",74,"Excellent",6,2021,2021-06-01
+"209","Katrina Howell","4 Tobergel Ln, Larne BT40 2LQ, UK","Type 1",42,"Improved",8,2021,2021-08-01
+"210","Rishi Golden","224 Roden St, Belfast BT12 5QE, UK","Type 1",36,"Poor",2,2021,2021-02-01
+"211","Sage Arroyo","15 Main St, Carnteel, Aughnacloy BT69 6EA, UK","Type 1",77,"Excellent",12,2021,2021-12-01
+"212","Kirsten Graham","4 Chestnut Way, Larne BT40 2SE, UK","Type 1",42,"Improved",12,2021,2021-12-01
+"213","Daisy Cantu","Unnamed Road, Enniskillen BT92, UK","Type 1",55,"Excellent",10,2021,2021-10-01
+"214","Mireya Kent","1-37 Kylemore Dr, Omagh BT79 7LL, UK","Type 2",36,"Excellent",4,2021,2021-04-01
+"215","Alaina Luna","N Edward St, Derry BT48 7EP, UK","Type 1",60,"Poor",4,2021,2021-04-01
+"216","Edgar Black","5 Glenside Dr, Belfast BT14, UK","Type 2",50,"Excellent",3,2021,2021-03-01
+"217","Troy Sullivan","32 Laharna Ave, Larne BT40 1NG, UK","Type 1",26,"Poor",6,2021,2021-06-01
+"218","Keenan Gutierrez","17 Blackrock Ln, Newtownabbey BT36 4NQ, UK","Type 2",81,"Improved",3,2021,2021-03-01
+"219","Lennon Wade","5 Stonebridge Dr, Conlig, Newtownards BT23 7QS, UK","Type 2",43,"Poor",8,2021,2021-08-01
+"220","Edith Molina","14 Wolfhill Ave S, Belfast BT14 8NT, UK","Type 2",68,"Poor",9,2021,2021-09-01
+"221","Mayra Austin","21 Church Cres, Bangor BT20 3EF, UK","Type 1",69,"Poor",9,2021,2021-09-01
+"222","Kali Faulkner","6 Woodview Terrace, Caledon BT68 4XQ, UK","Type 2",60,"Poor",10,2021,2021-10-01
+"223","Cohen Hall","7 Holly Manor, Newtownabbey BT36 7WQ, UK","Type 1",52,"Poor",5,2021,2021-05-01
+"224","Colin Hobbs","82 The Quay, Dundrum, Newcastle BT33 0UJ, UK","Type 2",59,"Excellent",10,2021,2021-10-01
+"225","Lillianna Neal","26 Henrietta St, Belfast BT2 8LW, UK","Type 2",49,"Poor",11,2021,2021-11-01
+"226","Liam Wilkins","30-32 Crooked Stone Rd, Antrim BT41 4SP, UK","Type 1",49,"Excellent",5,2021,2021-05-01
+"227","Jimmy Page","68 Newtownards Rd, Bangor BT20 4DR, UK","Type 1",83,"Poor",3,2021,2021-03-01
+"228","Nadia Edwards","238 Derrylee Rd, Dungannon BT71 6NY, UK","Type 2",46,"Improved",4,2021,2021-04-01
+"229","Niko Hodge","18 Glenhead Rd, Ballymena BT42 4RE, UK","Type 2",59,"Improved",4,2021,2021-04-01
+"230","Carson Guerra","44 Listooder Rd, Crossgar, Downpatrick BT30 9JF, UK","Type 2",54,"Poor",2,2021,2021-02-01
+"231","Carlee Hickman","1 Milltown Rd, Derrylin, Enniskillen BT92 9LF, UK","Type 2",32,"Improved",8,2021,2021-08-01
+"232","Livia Carrillo","16-24 Castlewellan Rd, Newry BT34 5UY, UK","Type 1",29,"Excellent",9,2021,2021-09-01
+"233","Alvin Owen","8 Royal Oaks, Belfast BT8 6YX, UK","Type 1",61,"Excellent",12,2021,2021-12-01
+"234","Ingrid Maynard","1 Leroy St, Belfast BT14 8AU, UK","Type 2",85,"Poor",1,2021,2021-01-01
+"235","Zaria Hopkins","1 Carrickfern Cl, Greenisland, Carrickfergus BT38 8FR, UK","Type 2",46,"Excellent",2,2021,2021-02-01
+"236","Kaitlynn Hale","3 Altan Dr, Dunmurry, Belfast BT17 0UD, UK","Type 2",82,"Poor",2,2021,2021-02-01
+"237","Kaylen Juarez","2-58 Seaview Cl, Ardglass, Downpatrick BT30 7SQ, UK","Type 2",51,"Poor",10,2021,2021-10-01
+"238","Kendall Bridges","2 Prospect Way, Lurgan, Craigavon BT66 6DY, UK","Type 1",73,"Improved",3,2021,2021-03-01
+"239","Averi Berg","2-12 Lemons Rd, Newtownards BT22 1BY, UK","Type 2",77,"Excellent",1,2021,2021-01-01
+"240","Maddison Dickson","3 Cumberland Gate, Dundonald, Belfast BT16 2GE, UK","Type 2",64,"Improved",9,2021,2021-09-01
+"241","Victor Glenn","11 Cahore Rd, Draperstown, Magherafelt BT45 7AP, UK","Type 2",65,"Improved",9,2021,2021-09-01
+"242","Cherish Long","1 Marvista Ave, Ballyclare BT39 9JZ, UK","Type 1",49,"Excellent",6,2021,2021-06-01
+"243","Cristopher Rodriguez","11 Exchange St, Belfast BT1 2LS, UK","Type 2",41,"Poor",8,2021,2021-08-01
+"244","Jay Fuller","25 Highfield Rd, Magherafelt BT45 5BN, UK","Type 1",54,"Excellent",2,2021,2021-02-01
+"245","Tiana Munoz","103 Fintona Rd, Clogher BT76 0XA, UK","Type 1",36,"Improved",12,2021,2021-12-01
+"246","Roderick Wood","15 Church St Ct, Newtownards BT23 4BZ, UK","Type 1",66,"Poor",12,2021,2021-12-01
+"247","India Mcintyre","106 Princetown Rd, Bangor BT20 3TG, UK","Type 1",44,"Poor",10,2021,2021-10-01
+"248","Donavan Hardin","11-25 The Cairn Rd, Collone, Armagh BT60 2BR, UK","Type 2",82,"Improved",4,2021,2021-04-01
+"249","Bryson Mooney","10 Avonmore Park, Lisburn BT28 1NA, UK","Type 2",39,"Poor",4,2021,2021-04-01
+"250","Aspen Allen","19 Clooney Terrace, Derry BT47 6AW, UK","Type 1",83,"Poor",12,2021,2021-12-01
+"251","Colt Ortega","179-255 Carnteel Rd, Dungannon BT70, UK","Type 2",34,"Excellent",12,2021,2021-12-01
+"252","Reilly Cherry","12 Town Brae, Glenarm, Ballymena BT44 0EE, UK","Type 2",84,"Improved",3,2021,2021-03-01
+"253","Rebekah Calderon","119 Duncastle Rd, New Buildings, Derry BT47 2SN, UK","Type 1",52,"Excellent",11,2021,2021-11-01
