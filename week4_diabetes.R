@@ -3,6 +3,7 @@ diabetes_data <- read.csv("Diabetes-md.csv",
                           na = "", stringsAsFactors=FALSE)
 # what's the data type
 class(diabetes_data)
+class(diabetes_data$Age)
 # what's the structure
 str(diabetes_data)
 # what's the dimension
@@ -60,7 +61,10 @@ diabetes_data$`Health Status` <- factor(diabetes_data$`Health Status`,
 
 # class list
 class_list <- lapply(diabetes_data, class)
+length(class_list)
 class_list <- sapply(diabetes_data, class)
+class(class_list)
+length(class_list)
 #####################chart#######################
 dose <- c(20, 30, 40, 50, 60)
 drugA <- c(16, 20, 27, 40, 60)
@@ -101,3 +105,4 @@ axis(1, at = 1:5,
      label = c("20 ml","40 ml","60 ml","80 ml","100 ml"))
 # make the y axis that displays ticks 
 axis(2, las = 1, at = 5 * 0:graph_range[2])
+

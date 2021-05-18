@@ -91,5 +91,4 @@ head(numeric_data, 3)
 
 # 
 lapply(numeric_data, summary)
-
 names(brexit_data_modified)

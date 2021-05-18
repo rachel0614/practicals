@@ -133,3 +133,5 @@ missing_values <- aggr(managers_data, prop = FALSE, numbers = TRUE)
 # Show summary of the contents of missing_values
 summary(missing_values)
 # See this link for more info https://www.rdocumentation.org/packages/VIM/versions/4.8.0/topics/aggr 
+
+

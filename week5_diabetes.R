@@ -1,15 +1,25 @@
+setwd("D:/LYIT/workspace/r/practicals")
+getwd()
 diabetes_data <- read.csv("dataset/diabetes.csv", 
                           na = "", stringsAsFactors=FALSE)
+
 # check missing and delete
 #install.packages("VIM")
 library(VIM)
 missing_values <- aggr(diabetes_data, prop = FALSE, numbers = TRUE)
 # Show summary of the contents of missing_values
 summary(missing_values)
+
+complete_data <- complete.cases(diabetes_data)
+complete_data
+# Show sum of missing rows
+sum(complete_data)
+
 # We can remove all missing data with this code.
 # Removes any rows that contains NA - listwise deletion
 new_diabetes_data <- na.omit(diabetes_data)
-new_diabetes_data
+str(new_diabetes_data)
+
 str(new_diabetes_data)
 convert_date <- paste('01',
   new_diabetes_data$Month,new_diabetes_data$Year,sep='/')
