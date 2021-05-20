@@ -40,7 +40,7 @@ cars <- subset(cars, cars$dist != 120)
 nrow(cars)
 
 # check normality
-install.packages("e1070")
+# install.packages("e1070")
 library(e1070)
 
 # skewness <-1 or >1 = highly skewed
@@ -63,7 +63,6 @@ plot(density(dist),
        round(e1071::skewness(dist), 2))
 # fill in the area under the plot with red
 polygon(density(dist), col = "red", main = "Distance")
-
 polygon(density(speed), col = "red", main = "Speed")
 
 par <- opar 
